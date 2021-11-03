@@ -31,12 +31,18 @@ La propiedad de CSS border-image permite utilizar una imagen para definir los bo
 
 **9. Añade al fichero anterior un div con dos fondos (nubes.jpeg y pajaros.png) tal y como se ve en la imagen background-birds-resultado.png.**
 
+**10. Crea un fichero bk-img-opacity.html donde añadas un fondo con una imagen la cual debe tener opacidad.**
+
+**11. Crea un fichero bk-gradient.html donde apliques una efecto gradiente haciendo uso de la herramienta https://cssgradient.io/(https://cssgradient.io/)*.*
+
 ## Múltiples columnas
 Podemos dividir el contenido de un elemento en el número de columnas indicado.
 
-**10. Haciendo uso de las propiedades column-count, column-width y column-rule aplica estilos al fichero columns.html para que se muestre como en la imagen multi-columns-resultado.png. ¿Qué propiedad habría que agregar a los párrafos para que no se corte el conenido de una columna a otra?**
+**12. Haciendo uso de las propiedades column-count, column-width y column-rule aplica estilos al fichero multi-columns.html para que se muestre como en la imagen multi-columns-resultado.png. ¿Qué propiedad habría que agregar a los párrafos para que no se corte el conenido de una columna a otra?**
 
 ## Efectos de texto
+
+**13. Haciendo uso de las propiedades text-shadow, word-wrap, white-space, y sin modificar el HTML, aplica estilos al fichero text-effects.html para que se muestre como en la imagen text-effects-resultado.png. ¿Qué propiedades habría que agregar a los dos últimos párrafos para que no se muestre el texto que sobra de la caja que lo contiene?**
 
 ## Fuentes
 
