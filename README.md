@@ -32,6 +32,9 @@ La propiedad de CSS border-image permite utilizar una imagen para definir los bo
 **9. Añade al fichero anterior un div con dos fondos (nubes.jpeg y pajaros.png) tal y como se ve en la imagen background-birds-resultado.png.**
 
 ## Múltiples columnas
+Podemos dividir el contenido de un elemento en el número de columnas indicado.
+
+**10. Haciendo uso de las propiedades column-count, column-width y column-rule aplica estilos al fichero columns.html para que se muestre como en la imagen multi-columns-resultado.png. ¿Qué propiedad habría que agregar a los párrafos para que no se corte el conenido de una columna a otra?**
 
 ## Efectos de texto
 
