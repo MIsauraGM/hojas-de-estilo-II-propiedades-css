@@ -44,9 +44,7 @@ Podemos dividir el contenido de un elemento en el número de columnas indicado.
 
 **13. Haciendo uso de las propiedades text-shadow, word-wrap, white-space, y sin modificar el HTML, aplica estilos al fichero text-effects.html para que se muestre como en la imagen text-effects-resultado.png. ¿Qué propiedades habría que agregar a los dos últimos párrafos para que no se muestre el texto que sobra de la caja que lo contiene?**
 
-## Fuentes
-
-
 ## Recursos
 Generador de CSS para border-radius: https://www.cssmatic.com/border-radius
 Generador de CSS para box-shadow: https://www.cssmatic.com/box-shadow(https://www.cssmatic.com/box-shadow)
+Generador de CSS para gradientes: https://cssgradient.io/
