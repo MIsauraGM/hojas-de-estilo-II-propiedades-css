@@ -27,6 +27,9 @@ La propiedad de CSS border-image permite utilizar una imagen para definir los bo
 
 ## Backgrounds
 
+**8. Visualiza el fichero background-test.html y comprueba las diferencias entre las propiedades background-origin y background-clip.**
+
+**9. Añade al fichero anterior un div con dos fondos (nubes.jpeg y pajaros.png) tal y como se ve en la imagen background-birds-resultado.png.**
 
 ## Múltiples columnas
 
