@@ -33,7 +33,7 @@ La propiedad de CSS border-image permite utilizar una imagen para definir los bo
 
 **10. Crea un fichero bk-img-opacity.html donde añadas un fondo con una imagen la cual debe tener opacidad.**
 
-**11. Crea un fichero bk-gradient.html donde apliques una efecto gradiente haciendo uso de la herramienta https://cssgradient.io/(https://cssgradient.io/)*.*
+**11. Crea un fichero bk-gradient.html donde apliques una efecto gradiente haciendo uso de la herramienta https://cssgradient.io/.**
 
 ## Múltiples columnas
 Podemos dividir el contenido de un elemento en el número de columnas indicado.
